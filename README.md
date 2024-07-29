@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnujaShinde1004
 - 👀 I’m interested in design and develop website.
-- 🌱 I’m currently learning Msc computer science at indira college
-- 💞️ I’m looking for a job
+- 🌱 I have completed Msc computer science at indira college
+- 💞️ Currently working at Tata Elxsi, Pune
 - 📫 How to reach me anujashinde1004@gmail.com
 
 <!---
